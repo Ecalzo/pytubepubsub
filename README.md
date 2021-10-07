@@ -6,7 +6,7 @@ service simple!
 ## Installation
 
 ```shell
-$ git clone <this repository>
+$ git clone git@github.com:Ecalzo/pytubepubsub.git
 $ python3 setup.py install
 ```
 
